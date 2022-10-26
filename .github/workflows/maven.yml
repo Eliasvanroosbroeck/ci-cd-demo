@@ -28,4 +28,4 @@ jobs:
       uses: actions/upload-artifact@v3      
       with:        
        name: Animal-1.0.war        
-       path: /home/runner/work/ci-cd-demo/ci-cd-demo/target/Animals-1.0.war
+       path: /home/runner/work/ci-cd-demo/ci-cd-demo/target/Animals-1.0.war 
